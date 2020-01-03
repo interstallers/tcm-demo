@@ -17,3 +17,4 @@
 - jason希望验证推荐系统recommend 新版本v2, 这个版本在「推荐商品」区域上增加了一个banner.
 - 与此同时, fox正打算验证另一个的feature: 包括对discount 和 products的修改, 同时引入了新的收藏服务favorites. 其中discount v2在「折扣商品」区域上新增一个banner, 同时products服务会通过调用新的服务favorites获取商品的收藏人数, 然后返回给前端页面.
 
+   
